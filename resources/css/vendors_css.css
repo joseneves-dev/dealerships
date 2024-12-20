@@ -1,0 +1,22 @@
+/****************************/
+/** Imports Plugin css **/
+/****************************/
+@import url(/public/assets/vendor_components/bootstrap/dist/css/bootstrap.css);
+@import url(/public/assets/vendor_components/morris.js/morris.css);
+@import url(/public/assets/vendor_components/datatable/datatables.min.css);
+@import url(/public/assets/vendor_components/select2/dist/css/select2.css);
+@import url(/public/assets/vendor_components/date-paginator/bootstrap-datepaginator.min.css);
+@import url(/public/assets/vendor_components/bootstrap-daterangepicker/daterangepicker.css);
+@import url(/public/assets/vendor_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css);
+@import url(/public/assets/vendor_components/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css);
+@import url(/public/assets/vendor_components/bootstrap-select/dist/css/bootstrap-select.css);
+@import url(/public/assets/vendor_components/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.css);
+@import url(/public/assets/vendor_components/raty-master/lib/jquery.raty.css);
+@import url(/public/assets/vendor_components/gridstack/gridstack.css);
+@import url(/public/assets/vendor_components/nestable/nestable.css);
+@import url(/public/assets/vendor_plugins/timepicker/bootstrap-timepicker.min.css);
+@import url(/public/assets/vendor_components/fullcalendar/fullcalendar.min.css);
+@import '/public/assets/vendor_components/fullcalendar/fullcalendar.print.min.css'
+  print;
+
+/*# sourceMappingURL=vendors_css.css.map */
